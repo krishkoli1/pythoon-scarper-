@@ -1,0 +1,5 @@
+{
+  "name": "Python Web Scraper Code Generator",
+  "description": "A multi-step tool to generate Python scripts for web scraping. It provides Selenium code to fetch dynamic web page content and BeautifulSoup code to parse and extract the desired data from the downloaded HTML.",
+  "requestFramePermissions": []
+}
